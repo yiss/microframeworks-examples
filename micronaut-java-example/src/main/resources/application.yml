@@ -1,0 +1,4 @@
+micronaut:
+    application:
+        name: micronaut-java-example
+    server:

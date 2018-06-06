@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.kotlin.example
+---
+testFramework: spek
+sourceLanguage: kotlin
